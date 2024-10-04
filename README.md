@@ -1,2 +1,4 @@
-№#Straw Hat  CyberSecurity (c) by Dorimidont
+## Straw Hat  CyberSecurity
+
+
 
